@@ -1,3 +1,1 @@
-# bilicover.github.io
-
-email: prg60059@xoixa.com
+# [返回](https://bilicover.github.io)
